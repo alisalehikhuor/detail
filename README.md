@@ -1,4 +1,4 @@
-When you use .coll and .row method to make the project responsive,
+When you use .col and .row method to make the project responsive,
 it is possible that what is there by default is less detailed,
 but "Bootstrap Details" can help you arrange your project with more details
 
