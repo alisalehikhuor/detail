@@ -6,6 +6,7 @@ but "Bootstrap Details" can help you arrange your project with more details
 
 
 
+
 For example:
 
 the width of the col-3 is 25%
