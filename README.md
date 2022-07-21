@@ -17,4 +17,7 @@ But you want 20% width, so you write like this col-3-5
 the width of the col-6 is 50%
 But you want 47% width, so ou write like this col-6-7
 
+
 For Install You Just Link The BS-dtails To Your Project 
+ 
+ 
